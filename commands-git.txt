@@ -4,3 +4,6 @@
 git push -u origin <name>
 git push
 git push --tags
+
+
+JE MODIFIE MON FICHIER TXT POUR LE PULL
