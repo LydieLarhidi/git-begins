@@ -7,3 +7,6 @@ git push --tags
 
 
 JE MODIFIE MON FICHIER TXT POUR LE PULL
+
+3. creer branch : git branch nouvelle_branche
+4. basculer : git switch nouvelle_branche
